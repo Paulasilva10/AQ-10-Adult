@@ -17,6 +17,9 @@ Se o escore atingir 6 pontos ou mais, o sistema sugere uma avaliação por um pr
 ### Instalação e Uso
 Para usar o projeto, basta clonar o repositório e abrir o arquivo HTML principal no navegador. Os usuários podem responder ao questionário diretamente na interface intuitiva do aplicativo.
 
+Contribuições
+Contribuições são bem-vindas! Para contribuir com o projeto, siga as diretrizes de contribuição descritas no arquivo README.md. Você pode reportar problemas, sugerir novas funcionalidades ou enviar pull requests para melhorar o projeto.
+
 ## 🛠 Habilidades
 
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
