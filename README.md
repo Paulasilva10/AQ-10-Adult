@@ -1,8 +1,21 @@
 # Questionário de Autoavaliação para Autismo em Adultos
 
 
-O Questionário de Autoavaliação para Autismo em Adultos é uma ferramenta importante para detectar quadros sutis de autismo em adultos.
 
+### Resumo
+O Questionário de Autoavaliação para Autismo em Adultos é um projeto importante para detectar sinais de autismo. Uma aplicação web que oferece uma plataforma para avaliação pessoal com base em um questionário estruturado. Desenvolvido utilizando HTML, CSS e JavaScript, o projeto permite aos usuários responder 10 perguntas e receber um resultado com base nas suas respostas.
+
+### Funcionalidades Principais
+Questionário Interativo: Os usuários respondem a perguntas com opções de múltipla escolha.
+
+### Cálculo Automático de Pontuação: 
+As respostas dos usuários são avaliadas automaticamente para calcular um escore final.
+
+### Indicação de Avaliação Profissional: 
+Se o escore atingir 6 pontos ou mais, o sistema sugere uma avaliação por um profissional qualificado.
+
+### Instalação e Uso
+Para usar o projeto, basta clonar o repositório e abrir o arquivo HTML principal no navegador. Os usuários podem responder ao questionário diretamente na interface intuitiva do aplicativo.
 
 ## 🛠 Habilidades
 
