@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+body{
+    background-image: url("./img/top-view-colorful-hands-white-background-with-copy-space.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+  margin: 0;
+}
+
+*{
+  font-family: "Roboto", Arial, sans-serif;
+}
+header {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  margin-top: 500px;
+  margin-bottom: 20px;
+}
+
+main {
+  text-align: center;
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 2rem;
+  color: #333;
+  margin: 0; 
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-container button {
+  background-color: #4caf50;
+  color: white;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.3rem;
+  cursor: pointer;
+  text-transform: uppercase;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-top: 20px; /
+}
+
+.button-container button:hover {
+  background-color: #45a049;
+}
